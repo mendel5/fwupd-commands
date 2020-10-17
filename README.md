@@ -16,4 +16,6 @@ sudo fwupdmgr get-updates
 sudo fwupdmgr update
 
 sudo fwupdmgr get-history
+
+sudo fwupdmgr report-history
 ```
