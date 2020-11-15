@@ -2,10 +2,10 @@
 Commands for [fwupd](https://github.com/fwupd/fwupd)
 
 ```
-sudo fwupdmgr refresh --force
-
 sudo fwupdmgr --version
 neofetch
+
+sudo fwupdmgr refresh --force
 
 fwupdmgr get-devices
 sudo fwupdmgr get-devices
