@@ -1,6 +1,7 @@
 # fwupd-commands
 Commands for [fwupd](https://github.com/fwupd/fwupd)
 
+## fwupd and fwupdmgr
 ```
 sudo fwupdmgr --version
 neofetch
@@ -18,4 +19,17 @@ sudo fwupdmgr update
 sudo fwupdmgr get-history
 
 sudo fwupdmgr report-history
+```
+
+## installation
+
+Links:
+- https://github.com/fwupd/fwupd/releases
+- https://github.com/fwupd/fwupd/wiki/fwupd-flatpak
+- https://snapcraft.io/install/fwupd/mint
+
+```
+sudo snap install fwupd --classic
+
+sudo snap remove fwupd
 ```
