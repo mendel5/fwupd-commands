@@ -36,4 +36,11 @@ sudo snap info fwupd
 sudo snap refresh fwupd
 
 sudo snap remove fwupd
+
+sudo apt-get remove fwupd
+
+sudo apt-get purge fwupd
+
+sudo apt-get autoremove
+
 ```
