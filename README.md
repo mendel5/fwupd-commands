@@ -31,5 +31,9 @@ Links:
 ```
 sudo snap install fwupd --classic
 
+sudo snap info fwupd
+
+sudo snap refresh fwupd
+
 sudo snap remove fwupd
 ```
