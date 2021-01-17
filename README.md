@@ -29,11 +29,17 @@ Links:
 - https://snapcraft.io/install/fwupd/mint
 
 ```
-sudo snap install fwupd --classic
-
 sudo snap info fwupd
 
-sudo snap refresh fwupd
+sudo snap install fwupd --classic
+
+sudo snap refresh fwupd --classic
+
+sudo snap install fwupd --channel=latest/stable --classic
+sudo snap refresh fwupd --channel=latest/stable --classic
+
+sudo snap install fwupd --channel=latest/candidate --classic
+sudo snap refresh fwupd --channel=latest/candidate --classic
 
 sudo snap remove fwupd
 
