@@ -1,5 +1,8 @@
 # fwupd-commands
-Commands for [fwupd](https://github.com/fwupd/fwupd)
+Commands for [fwupd](https://github.com/fwupd/fwupd).
+
+Related:
+- https://github.com/fwupd/fwupd#basic-usage-flow-command-line
 
 ## fwupd and fwupdmgr
 ```
