@@ -65,4 +65,6 @@ sudo apt-get autoremove
 sudo apt-get autoremove --purge
 
 sudo apt-get clean
+
+sudo apt-get update
 ```
