@@ -62,4 +62,6 @@ sudo apt-get purge fwupd
 
 sudo apt-get autoremove
 
+sudo apt-get autoremove --purge
+
 ```
