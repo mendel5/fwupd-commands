@@ -54,17 +54,17 @@ apt
 ```
 sudo apt show fwupd
 
-sudo apt-get install fwupd
+sudo apt install fwupd
 
-sudo apt-get remove fwupd
+sudo apt remove fwupd
 
-sudo apt-get purge fwupd
+sudo apt purge fwupd
 
-sudo apt-get autoremove
+sudo apt autoremove
 
-sudo apt-get autoremove --purge
+sudo apt autoremove --purge
 
-sudo apt-get clean
+sudo apt clean
 
-sudo apt-get update
+sudo apt update
 ```
