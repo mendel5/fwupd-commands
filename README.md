@@ -24,7 +24,7 @@ sudo fwupdmgr get-history
 sudo fwupdmgr report-history
 ```
 
-## installation
+## Installation
 
 Links:
 - https://github.com/fwupd/fwupd/releases
