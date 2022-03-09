@@ -1,11 +1,15 @@
 # fwupd-commands
-Commands for [fwupd](https://github.com/fwupd/fwupd).
+Commands for fwupd.
 
-Related:
+Links:
+- https://github.com/fwupd/fwupd
+- https://fwupd.org
 - https://github.com/fwupd/fwupd#basic-usage-flow-command-line
 
 ## fwupd and fwupdmgr
 ```
+sudo echo hello
+
 sudo fwupdmgr --version
 neofetch
 
