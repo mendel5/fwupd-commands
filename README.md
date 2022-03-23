@@ -10,8 +10,9 @@ Links:
 ```
 sudo echo hello
 
-sudo fwupdmgr --version
 neofetch
+
+sudo fwupdmgr --version
 
 fwupdmgr get-devices
 sudo fwupdmgr get-devices
